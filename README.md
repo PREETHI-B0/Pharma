@@ -24,7 +24,7 @@ Create a HTML file and include the needed Bootstrap components.
 
 ### Step 6:
 Publish the website in the LocalHost.
-
+~~~
 ## PROGRAM :
 <!DOCTYPE html>
 <html lang="en">
@@ -318,7 +318,7 @@ Publish the website in the LocalHost.
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
+~~~
 ## OUTPUT:
 ![alt text](<Screenshot 2024-05-12 131447.png>)
 ![alt text](<Screenshot 2024-05-12 131512.png>)
